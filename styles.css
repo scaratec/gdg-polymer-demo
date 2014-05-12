@@ -7,5 +7,11 @@ h1 {
 }
 
 .polymer-ui-collapsible-header {
-    color: red;
+    font-size: 18px;
+}
+
+.polymer-ui-field {
+    border: 1px solid #000000;
+    margin: 10px;
+    height: 40px;
 }
